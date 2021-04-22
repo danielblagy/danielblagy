@@ -1,4 +1,6 @@
-### Hi there 👋
+# An amateur
+
+I have recentely started this youtube [thing](https://www.youtube.com/channel/UCI_FXyNaHvWN5Bu3ma4EVRw).
 
 <!--
 **danielblagy/danielblagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
